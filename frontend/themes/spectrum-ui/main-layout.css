@@ -5,6 +5,8 @@
 [slot='drawer'] nav a {
   text-decoration: none;
   transition: color 140ms;
+  display: block;
+  margin-left: 17px;
 }
 
 [slot='drawer'] nav a .la {
